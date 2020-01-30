@@ -28,26 +28,26 @@ Function menu
 
   5.Cancel - Function Call Menu
 
-Display Case menu choice
+Function call Display array
 
- Function call vector<int, double> choicePrice
+ Display array[choice][price] 
+
+Function call: Confirm choice case menu
+{input
  
-Display choicePrice
-
- Function call: Confirm choice case menu
-
-intput
-
   yes - proceed to next step
 
   cancel---display--Please exit car wash
 
   return-- function call Main menu 
-
+}
 Function Call: Confirm price Case menu
 
+{input
+ 
   yes---display--enjoy your car wash
 
   cancel---display--Please exit car wash
 
   return---function call--- return to main menu
+}
