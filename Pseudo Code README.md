@@ -4,8 +4,7 @@ Cis17a Car Wash Final
 Pseudo Code
 
 //This program will be user menu presented to the customer.
-
-Customer will drive up to Car wash menu touch screen.
+//Customer will drive up to Car wash menu touch screen.
 
 Function call menu: menu option will ask customer if they would like a car wash.
 Program will validate input
